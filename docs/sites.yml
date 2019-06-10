@@ -6327,3 +6327,25 @@
     - 3D Printing
     - Manufacturing
   featured: false
+  - title: Karl Anders Immo | Real Estate Branding
+  main_url: http://karlanders.immo/
+  url: http://karlanders.immo/
+  description: >
+    We love real estate. We create brands and bring them to life. Our work is interdisciplinary, offbeat and contemporary. Get in touch to boost your brand.
+  categories:
+    - Business
+    - Real Estate
+    - Branding
+   built_by: Samuel Bassett
+   built_by_url: http://samuelbassett.xyz
+  featured: false
+    - title: GEMEINDEHAUS | Creative Workspace
+  main_url: http://www.gemeindehaus.work/
+  url: http://www.gemeindehaus.work/
+  description: >
+   Creative Workspace
+  categories:
+    - Coworking
+   built_by: Samuel Bassett
+   built_by_url: http://samuelbassett.xyz
+  featured: false
